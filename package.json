@@ -1,13 +1,15 @@
 {
   "name": "lexica-api",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "API wrapper around Lexica.art for searching Stable Diffusion images.",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "repository": "transitive-bullshit/lexica-api",
   "license": "MIT",
   "type": "module",
   "source": "./src/index.ts",
-  "files": ["build"],
+  "files": [
+    "build"
+  ],
   "exports": {
     "import": "./build/index.js",
     "default": "./build/index.js",
@@ -46,12 +48,16 @@
     "typescript": "^4.9.3"
   },
   "lint-staged": {
-    "*.{ts,tsx}": ["prettier --write"]
+    "*.{ts,tsx}": [
+      "prettier --write"
+    ]
   },
   "ava": {
     "extensions": {
       "ts": "module"
     },
-    "nodeArguments": ["--loader=tsx"]
+    "nodeArguments": [
+      "--loader=tsx"
+    ]
   }
 }
