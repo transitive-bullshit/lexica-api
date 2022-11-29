@@ -1,6 +1,6 @@
 {
   "name": "lexica-api",
-  "version": "0.1.5",
+  "version": "1.0.0",
   "description": "API wrapper around Lexica.art for searching Stable Diffusion images.",
   "author": "Travis Fischer <travis@transitivebullsh.it>",
   "repository": "transitive-bullshit/lexica-api",
