@@ -11,7 +11,7 @@
 
 ## Intro
 
-This package is a simple Node.js API wrapper around the [Lexica](https://lexica.art/docs) API for searching Stable Diffusion images.
+This package is a simple Node.js wrapper around the [Lexica](https://lexica.art/docs) API for searching Stable Diffusion images.
 
 It uses `got` and TypeScript.
 
