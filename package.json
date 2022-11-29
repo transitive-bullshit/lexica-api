@@ -6,6 +6,15 @@
   "repository": "transitive-bullshit/lexica-api",
   "license": "MIT",
   "type": "module",
+  "source": "./src/index.ts",
+  "files": [
+    "build"
+  ],
+  "exports": {
+    "import": "./build/index.js",
+    "default": "./build/index.js",
+    "types": "./build/index.d.ts"
+  },
   "engines": {
     "node": ">=14"
   },
