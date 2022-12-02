@@ -28,7 +28,7 @@
 
 #### Defined in
 
-[types.ts:7](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L7)
+[types.ts:7](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L7)
 
 ___
 
@@ -38,7 +38,7 @@ ___
 
 #### Defined in
 
-[types.ts:14](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L14)
+[types.ts:14](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L14)
 
 ___
 
@@ -48,7 +48,7 @@ ___
 
 #### Defined in
 
-[types.ts:16](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L16)
+[types.ts:16](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L16)
 
 ___
 
@@ -58,7 +58,7 @@ ___
 
 #### Defined in
 
-[types.ts:12](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L12)
+[types.ts:12](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L12)
 
 ___
 
@@ -68,7 +68,7 @@ ___
 
 #### Defined in
 
-[types.ts:6](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L6)
+[types.ts:6](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L6)
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 #### Defined in
 
-[types.ts:15](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L15)
+[types.ts:15](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L15)
 
 ___
 
@@ -88,7 +88,7 @@ ___
 
 #### Defined in
 
-[types.ts:18](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L18)
+[types.ts:18](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L18)
 
 ___
 
@@ -98,7 +98,7 @@ ___
 
 #### Defined in
 
-[types.ts:10](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L10)
+[types.ts:10](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L10)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[types.ts:17](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L17)
+[types.ts:17](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L17)
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 #### Defined in
 
-[types.ts:13](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L13)
+[types.ts:13](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L13)
 
 ___
 
@@ -128,7 +128,7 @@ ___
 
 #### Defined in
 
-[types.ts:8](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L8)
+[types.ts:8](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L8)
 
 ___
 
@@ -138,7 +138,7 @@ ___
 
 #### Defined in
 
-[types.ts:9](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L9)
+[types.ts:9](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L9)
 
 ___
 
@@ -148,4 +148,4 @@ ___
 
 #### Defined in
 
-[types.ts:11](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L11)
+[types.ts:11](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L11)

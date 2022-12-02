@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[types.ts:2](https://github.com/transitive-bullshit/lexica-api/blob/d80ee37/src/types.ts#L2)
+[types.ts:2](https://github.com/transitive-bullshit/lexica-api/blob/0e2a2f8/src/types.ts#L2)

@@ -33,7 +33,10 @@ export class LexicaAPI {
     return this._get(url, imageUrl)
   }
 
-  async _getImpl(url: string, query: string): Promise<types.SearchResults> {
+  protected async _getImpl(
+    url: string,
+    query: string
+  ): Promise<types.SearchResults> {
     return got<types.SearchResults>(url, {
       searchParams: {
         q: query
