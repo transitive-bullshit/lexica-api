@@ -7,14 +7,14 @@
   "license": "MIT",
   "type": "module",
   "source": "./src/index.ts",
-  "files": [
-    "build"
-  ],
   "exports": {
     "import": "./build/index.js",
     "default": "./build/index.js",
     "types": "./build/index.d.ts"
   },
+  "files": [
+    "build"
+  ],
   "engines": {
     "node": ">=14"
   },
@@ -26,6 +26,7 @@
     "predev": "run-s clean",
     "pretest": "run-s build",
     "prepare": "husky install",
+    "docs": "typedoc",
     "pre-commit": "lint-staged",
     "test": "run-p test:*",
     "test:unit": "ava",
@@ -46,6 +47,8 @@
     "prettier": "^2.8.0",
     "tsup": "^6.5.0",
     "tsx": "^3.12.1",
+    "typedoc": "^0.23.21",
+    "typedoc-plugin-markdown": "^3.13.6",
     "typescript": "^4.9.3"
   },
   "lint-staged": {

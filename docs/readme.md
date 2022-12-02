@@ -1,3 +1,5 @@
+lexica-api / [Exports](modules.md)
+
 # Lexica <!-- omit in toc -->
 
 > API wrapper around [Lexica](https://lexica.art) for searching Stable Diffusion images.

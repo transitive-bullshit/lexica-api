@@ -45,7 +45,3 @@ next-env.d.ts
 .env.test.local
 .env.production.local
 
-# data dumps
-/data/tmdb_dump_*.json
-/data/movie_ids_*.json
-/data/*.tsv
